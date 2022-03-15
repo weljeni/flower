@@ -1,0 +1,8 @@
+.navbar{
+    display: flex;
+    justify-content : space-between;
+    color: rgb(0, 126, 175);
+    margin-right: 20px;
+    
+
+}

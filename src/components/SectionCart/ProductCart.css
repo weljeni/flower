@@ -1,0 +1,9 @@
+.flower-card{
+    display: flex;
+    justify-items: center;
+    margin-top: 30px;
+    
+}
+.selary{
+    margin-left: 20px;
+}
